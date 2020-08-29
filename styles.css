@@ -1,0 +1,103 @@
+<!doctype html >
+<html >
+<head >
+<style>
+.intro {
+    background-color: #699;
+    color: #033;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 25px;
+    padding: 25px;
+}
+.max1 {
+    background-color: #699;
+    color: #033;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 25px;
+    padding: 25px;
+} 
+.style{
+   background-color:#66c;
+   font-size:10px;
+   color:#ccc;
+   border-width:10px;
+   border-style:solid;
+   border-color:#06c
+ }
+.max2 {
+    background-color: #6ff;
+    color: #030;
+    font-family:'Arial';
+    font-weight: bold;
+    font-size: 36px;
+    margin: 50px;
+    padding: 50px;
+}    
+.full{
+    font-family: 'Comic Sans MS';
+    background-color: #FC6;
+    color: #039;
+    font-size: 20px;
+}
+
+a:link {
+    text-align: center;
+    color: #CC0000;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #CC0000;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #060;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #CC0000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+h1{
+    background-color:#39f;
+    text-align:center;
+    border-bottom-width:thin;
+    border-bottom-style:solid;
+    border-bottom-color:#003;
+    margin:35px;
+}
+h2 {
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    font-family:Georgia;
+    color:#030;
+    padding:15px;
+}
+li{
+    background-color:gray;
+    font-family:Arial;
+    color:black;
+    font-weight:bold;
+    font-size:18px;
+}
+#textboxid {
+    height: 300px;
+    width: 500px;
+    font-size: 14pt;
+}
+ <style>
+ </head>
+<body>
+</body>
+</html>
